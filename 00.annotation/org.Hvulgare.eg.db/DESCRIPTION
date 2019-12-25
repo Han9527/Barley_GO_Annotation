@@ -1,0 +1,14 @@
+Package: org.Hvulgare.eg.db
+Title: Genome wide annotation for Hordeum vulgare
+Description: Genome wide annotation for Hordeum vulgare, primarily based on mapping using Entrez Gene identifiers.
+Version: 0.0.2
+Author: zhiganghan <hanzg@zju.edu.cn>
+Maintainer: zhiganghan <hanzg@zju.edu.cn>
+Depends: R (>= 2.7.0), methods, AnnotationDbi (>= 1.46.1)
+Suggests: DBI, annotate, RUnit
+Imports: methods, AnnotationDbi
+License: Artistic-2.0
+organism: Hordeum vulgare
+species: Hordeum vulgare
+biocViews: OrgDb, annotation
+
